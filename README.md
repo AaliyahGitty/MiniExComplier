@@ -1,5 +1,5 @@
 # MiniExComplier - READ ME
-Author: Aaliyah Bradley
+# Author: Aaliyah Bradley
 This document describes the implementation and functionality of the Mini Expression Compiler project, including lexical analysis, parsing, AST construction, and evaluation.
 # 1. Overview
 This compiler evaluates arithmetic expressions by performing:
