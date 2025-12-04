@@ -1,4 +1,4 @@
-# MiniExComplier
+# MiniExComplier - READ ME
 Author: Aaliyah Bradley
 This document describes the implementation and functionality of the Mini Expression Compiler project, including lexical analysis, parsing, AST construction, and evaluation.
 # 1. Overview
