@@ -1,4 +1,4 @@
-Mini Expression Compiler – README
+## Mini Expression Compiler – README
 Author: Aaliyah Bradley
 # 1. Project Summary
 The Mini Expression Compiler is a simplified compiler that processes arithmetic expressions through four major phases: Lexical Analysis, Parsing, Abstract Syntax Tree (AST) Construction, and Evaluation. The program reads a user‑entered expression, tokenizes it, verifies its structure using a recursive‑descent parser, builds a syntax tree, and then computes the final result. Invalid expressions produce helpful error messages with exact positions.
